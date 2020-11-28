@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, welcome to my page!
+![Banner](https://raw.githubusercontent.com/MrAbdurakhimov/MrAbdurakhimov/main/mrabdurakhimov.png)
 
-<!--
-**MrTukhtaboyev/MrTukhtaboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 I am 21 y.o .NET Developer
 
-Here are some ideas to get you started:
+**🖤Quote:**
+>If you control the code you control the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📧 Contact me:**
+ 
+Telegram: [@iCloudMTX](https://t.me/iCloudMTX)
+
+Instagram: [@Mukhammadkarim_Tukhtaboyev/](https://www.instagram.com/mukhammadkarim_tukhtaboyev/)
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+
+![MrAbdurakhimov's github stats](https://github-readme-stats.vercel.app/api?username=MrTukhtaboyev&show_icons=true&theme=react)

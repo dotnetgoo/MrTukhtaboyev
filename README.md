@@ -1,5 +1,5 @@
 # Hello, welcome to my page!
-![Banner](https://raw.githubusercontent.com/MrTukhtaboyev/MrTukhtaboyev/main/Blue%20and%20Red%20Motivational%20Quotes%20Blog%20Banner.png)
+![Banner](https://raw.githubusercontent.com/MrTukhtaboyev/MrTukhtaboyev/main/code.png)
 
 ### 👨🏻‍💻 I am 21 y.o .NET Developer
 

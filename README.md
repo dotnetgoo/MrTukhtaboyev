@@ -1,7 +1,7 @@
 # Hello, welcome to my page!
 ![Banner](https://raw.githubusercontent.com/MrTukhtaboyev/MrTukhtaboyev/main/code.png)
 
-### 👨🏻‍💻 I am 21 y.o .NET Developer
+### 👨🏻‍💻 I am 22 y.o FullStack .NET Developer
 
 **🖤Quote:**
 >If you control the code you control the world.

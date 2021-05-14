@@ -8,7 +8,7 @@
 
 **📧 Contact me:**
  
-Telegram: [@iCloudMTX](https://t.me/iCloudMTX)
+Telegram: [@iCloudMTX](https://t.me/gcu_owner)
 
 Instagram: [@Mukhammadkarim_Tukhtaboyev/](https://www.instagram.com/mukhammadkarim_tukhtaboyev/)
 

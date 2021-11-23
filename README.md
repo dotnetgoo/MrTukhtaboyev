@@ -1,4 +1,4 @@
-# .NET Uzbekistan Community
+# Hi Microsoft
 ![Banner](https://raw.githubusercontent.com/MrTukhtaboyev/MrTukhtaboyev/main/code.png)
 
 ### 👨🏻‍💻 I am 22 y.o FullStack .NET Developer
@@ -12,5 +12,3 @@
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
-
-![MrAbdurakhimov's github stats](https://github-readme-stats.vercel.app/api?username=MrTukhtaboyev&show_icons=true&theme=react)

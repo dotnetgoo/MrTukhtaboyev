@@ -1,16 +1,14 @@
-# Hello, welcome to my page!
+# .NET Uzbekistan Community
 ![Banner](https://raw.githubusercontent.com/MrTukhtaboyev/MrTukhtaboyev/main/code.png)
 
 ### 👨🏻‍💻 I am 22 y.o FullStack .NET Developer
 
 **🖤Quote:**
->If you control the code you control the world.
+>In code, we trust
 
 **📧 Contact me:**
  
-Telegram: [@gcu_owner](https://t.me/gcu_owner)
-
-Instagram: [@Mukhammadkarim_Tukhtaboyev/](https://www.instagram.com/mukhammadkarim_tukhtaboyev/)
+[Telegram](https://t.me/gcu_owner) | [Instagram](https://www.instagram.com/mukhammadkarim_tukhtaboyev/) | [Youtube](https://www.youtube.com/channel/UCmB75u4tDsqlxMluy3Y4zdg)
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>

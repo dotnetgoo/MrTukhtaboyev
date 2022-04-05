@@ -3,38 +3,11 @@
 
 ### 👨🏻‍💻 I am 22 y.o FullStack .NET Developer
 
-**🖤Quote:**
->In code, we trust
-
-**📧 Contact me:**
- 
-[Telegram](https://t.me/gcu_owner) | [Instagram](https://www.instagram.com/mukhammadkarim_tukhtaboyev/) | [Youtube](https://www.youtube.com/channel/UCmB75u4tDsqlxMluy3Y4zdg)
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
-
-
-<!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-
-
-<h3 align="center">
-    Welcome to Clever Coder's profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!--ANIMATED WELCOME TEXT -->
-<p align="center">
-    <a href="https://github.com/CleverCoder/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
-</p>
-
-
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/clevercoderr -->
+<!-- Badges template - https://github.com/MrTukhtaboyev -->
 <p align="center">
-    <a href="https://github.com/">
+    <a href="https://github.com/MrTukhtaboyev">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
@@ -43,16 +16,7 @@
     <a href="https://stackoverflow.com/users/17122298/clever-coder">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-     <a href="https://www.hackerrank.com/clevercoderr">
-        <img alt="Hackerrank"
-             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.kaggle.com/clevercoderr">
-        <img alt="Kaggle"
-             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="https://discord.gg/clevercoderr">
-        <img alt="Discord"
-             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.facebook.com/clevercoderr">
+    <a href="https://www.facebook.com/MrTukhtaboyev">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100068970307814">
@@ -61,15 +25,15 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=clevercoderr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="clevercoderr's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=clevercoderr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=clevercoderr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="clevercoderr's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=clevercoderr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=MrTukhtaboyev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="MrTukhtaboyev's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=MrTukhtaboyev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrTukhtaboyev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="MrTukhtaboyev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrTukhtaboyev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 <p>
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=clevercoderr&theme=monokai&column=8&no-frame=true&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=MrTukhtaboyev&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
 
@@ -88,9 +52,6 @@
     <a href="#">
         <img alt="Python"
              src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 
@@ -110,9 +71,6 @@
         <img alt="Entity%20Fraemwork%20Core"
              src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
     <a href="#">
-        <img alt="OpenCV"
-             src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
-    <a href="#">
         <img alt="MVC"
              src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
 </p>
@@ -127,8 +85,8 @@
         <img alt="SQL Server"
              src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
     <a href="#">
-        <img alt="Oracle"
-             src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+        <img alt="MySql"
+             src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=mysql&logoColor=black"/></a>
 </p>
 
 ### ☁ Cloud hosting
@@ -166,9 +124,6 @@
     <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#">
-        <img alt="Jupyter"
-             src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
     <a href="#">
         <img alt="Conda"
              src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
@@ -215,11 +170,11 @@
 <!-- GitHub Readme Streak Stats - https://github.com/clevercoderr/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="CleverCoderr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=clevercoderr&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="MrTukhtaboyev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MrTukhtaboyev&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 ## 💻 Last month's activity
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
-<a href=""><img alt="clevercoderr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=clevercoderr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="MrTukhtaboyev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MrTukhtaboyev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 

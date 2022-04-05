@@ -1,7 +1,16 @@
-# Hi Microsoft
-![Banner](https://raw.githubusercontent.com/MrTukhtaboyev/MrTukhtaboyev/main/code.png)
+<h3 align="center">
+    Welcome to MrTukhtaboyev's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<!--ANIMATED WELCOME TEXT -->
+<p align="center">
+    <a href="https://github.com/MrTukhtaboyev/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+</p>
 
-### 👨🏻‍💻 I am 22 y.o FullStack .NET Developer
+
+### 👨🏻‍💻 I am 23 y.o FullStack .NET Developer
 
 ## 🙋‍♂️ Connect with me
 
@@ -178,4 +187,3 @@
 ## 💻 Last month's activity
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 <a href=""><img alt="MrTukhtaboyev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MrTukhtaboyev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-

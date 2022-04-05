@@ -16,7 +16,7 @@
     <a href="https://stackoverflow.com/users/17122298/mukhammadkarim-tukhtaboev">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://www.facebook.com/MrTukhtaboyev">
+    <a href="https://www.facebook.com/muhammadkarim.toxtaboyev.7">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100068970307814">

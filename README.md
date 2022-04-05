@@ -62,9 +62,6 @@
         <img alt="Python"
              src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="#">
-        <img alt="Paskal"
-             src="https://img.shields.io/badge/Paskal-ED8B00?style=for-the-badge&logo=paskal&logoColor=white"/></a>
-    <a href="#">
         <img alt="C++"
              src="https://img.shields.io/badge/Cpp-ED8B00?style=for-the-badge&logo=Cpp&logoColor=white"/></a>
     <a href="#">
@@ -89,8 +86,20 @@
         <img alt="Entity%20Fraemwork%20Core"
              src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
     <a href="#">
-        <img alt="MVC"
-             src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+        <img alt="Ado.Net"
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Ado.Net&logoColor=green"></a>
+    <a href="#">
+        <img alt="Dapper"
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Dapper&logoColor=green"></a>
+    <a href="#">
+        <img alt="ASP.NET Core MVC"
+             src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+    <a href="#">
+        <img alt="WPF"
+             src="https://img.shields.io/badge/WPF-43B02A?style=for-the-badge&logo=WPF&logoColor=blue"/></a>
+    <a href="#">
+        <img alt="Windows Form"
+             src="https://img.shields.io/badge/Windows%20Form-43B02A?style=for-the-badge&logo=MVC&logoColor=green"/></a>
 </p>
 
 ### 🗄️ Databases

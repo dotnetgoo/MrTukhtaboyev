@@ -181,6 +181,8 @@
                      src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Kali"
                      src="https://img.shields.io/badge/Kali%20Linux-5BAEF2?style=for-the-badge&logo=kali&logoColor=white"></a>
+    <a href="#"><img alt="Mac OS"
+                     src="https://img.shields.io/badge/Mac%20OS-5BAFF2?style=for-the-badge&logo=kali&logoColor=white"></a>
     
 </p>
 

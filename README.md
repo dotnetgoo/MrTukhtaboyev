@@ -166,14 +166,6 @@
     
 </p>
 
-
-
-<div> 
-  ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
-</div>
-### Snake game
-
-
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/clevercoderr/github-readme-streak-stats -->
